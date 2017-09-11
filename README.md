@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # spicyklein
 
 FIXME: description
@@ -34,3 +35,6 @@ Copyright © 2017 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+=======
+# clj
+>>>>>>> 2965650f1239a5408808e7622a12ca395d9312ec
